@@ -28,7 +28,7 @@ const FormularioTareas = ({tareas, cambiarTareas}) =>{
             ]
         )
         :
-        alert("no se puede dejar vacio");
+        alert("no se puede dejar vacio SALAMIN");
 
         
         // <Alert>Texto de alerta</Alert>
